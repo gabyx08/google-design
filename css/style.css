@@ -56,4 +56,16 @@
 .col-12 {
   width: 100%; }
 
+.info .imagen {
+  width: 100%; }
+.info .imagen-pequena {
+  width: 10%; }
+
+.imagen-circulo {
+  border-radius: 100%; }
+
+hr {
+  border: 2px solid;
+  color: #4285f4; }
+
 /*# sourceMappingURL=style.css.map */
